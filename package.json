@@ -22,6 +22,6 @@
   "dependencies": {
     "octicons": "^5.0.1",
     "primer-core": "^6.2.0",
-    "primer-marketing": "^5.2.0"
+    "primer-marketing": "^7.0.0"
   }
 }
